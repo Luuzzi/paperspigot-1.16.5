@@ -1,0 +1,15 @@
+[submodule "Bukkit"]
+	path = work/Bukkit
+	url = https://github.com/Luuzzi/bukkit-1.16.5.git
+[submodule "Spigot"]
+	path = work/Spigot
+	url = https://github.com/Luuzzi/spigot-1.16.5.git
+[submodule "Paperclip"]
+	path = work/Paperclip
+	url = https://github.com/Luuzzi/paperclip-1.16.5.git
+[submodule "BuildData"]
+	path = work/BuildData
+	url = https://github.com/Luuzzi/builddata-1.16.5.git
+[submodule "CraftBukkit"]
+	path = work/CraftBukkit
+	url = https://github.com/Luuzzi/craftbukkit-1.16.5.git
